@@ -12,5 +12,8 @@ public class App
         System.out.println( "Working on the first CR");
         System.out.println( "First update was a success");
         
+        System.out.println( "Dev2 Branch code insertion" );//--branch code from Dev1
+        System.out.println( "Working on the first CR");//--branch code from Dev1
+        System.out.println( "First branch update was a success");//--branch code from Dev1
     }
 }
